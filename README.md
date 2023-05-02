@@ -33,7 +33,7 @@ nvm use 14.21.2
 ```
 Tenta novamente rodar o projeto e tudo deve correr como o esperado!!
 
-As credencias de acesso ao app são as abaixo
+As credencias de acesso ao app são estas:
 ```bash
 email: fulano@hotmail.com
 senha: senha123
