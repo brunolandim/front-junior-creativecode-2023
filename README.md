@@ -1,6 +1,13 @@
 
 ## Vamos Começar!!
 
+## Primeiramente execute o build do projeto para criar a pasta next
+```bash
+npm build
+# or
+yarn build
+```
+
 Realize primeiramente a instação das dependências do projeto:
 
 ```bash
